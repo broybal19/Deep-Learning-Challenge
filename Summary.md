@@ -19,4 +19,4 @@ Compiling, Training and Evaluating the Model
 The accuracy goal for the model was predicted for greater than 75%. Three attempts were made using the neural networks. They all resulted in around a 72% accuracy, which falls short for the target accuracy.
 
 ## Conclusion
-After attempting optimization of the model, I did not suceed in acheive accuracy above 72.59%.. I suggest using a different classification model to predict the funding success for the charity.
+After attempting optimization of the model, I did not succeed in achieving accuracy above 72.59%.. I suggest using a different classification model to predict the funding success for the charity.
